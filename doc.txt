@@ -1,0 +1,9 @@
+Before fine-tuning:
+ResNet Precision: 0.694
+
+After Finetuning:
+Siamese Network Avg Precision: 0.864
+Autoencoder Precision: 0.755
+CLIP Precision: 0.762
+
+The better precision came from Siamese Network.
